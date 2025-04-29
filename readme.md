@@ -19,3 +19,5 @@ And the monthly YoY charts? A clear reminder that December isn’t just festive�
 This project taught me how blending visuals with numbers can unlock hidden stories. It’s not just about the data—it’s about asking the right questions and letting the visuals guide decisions.
 
 Curious—what's your favorite dashboard insight you’ve uncovered recently? Or what’s your go-to chart for storytelling? Let’s swap ideas.
+![Screenshot 2025-04-29 112055](https://github.com/user-attachments/assets/b90edc3a-954e-453e-acf3-026dca8203d7)
+
