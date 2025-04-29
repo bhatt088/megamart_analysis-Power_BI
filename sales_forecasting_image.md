@@ -15,3 +15,4 @@ With the added forecast confidence interval, it's easier to plan for supply, sta
 This wasn’t just a technical project—it was a lesson in translating raw data into strategic foresight. Forecasting isn't magic; it's just well-prepared data paired with thoughtful questions.
 
 Have you ever used forecasting in your dashboards or reports? What tools or methods worked best for you? I’d love to hear your approach.
+![Screenshot 2025-04-29 112122](https://github.com/user-attachments/assets/9e30dfa8-c876-453d-8167-c66e85f2897f)
